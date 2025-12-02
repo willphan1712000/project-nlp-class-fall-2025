@@ -1,0 +1,59 @@
+.container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 500px;
+    padding: 20px;
+}
+
+.heading {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: solid 1px #000;
+    padding: 20px;
+    border-radius: 30px;
+    width: 100%;
+    gap: 15px;
+}
+
+.formArea {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    width: 100%;
+}
+
+.label {
+    font-weight: bold;
+}
+
+.input {
+    border-radius: 20px;
+    border: solid 1px #000;
+    padding: 10px 15px;
+}
+
+.inputBox {
+    height: 35px;
+}
+
+.textArea {
+    height: 300px;
+}
+
+.resultLabel {
+    margin: 0;
+}
+
+.result {
+    margin-top: 0;
+    margin-bottom: 40px;
+}
