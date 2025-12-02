@@ -1,2 +1,5 @@
-# project-nlp-class-fall-2025
-# project-nlp-class-fall-2025
+# Natural Language Processing
+## Nha Phan
+## Work:
+- Semantic Model
+- Frontend
