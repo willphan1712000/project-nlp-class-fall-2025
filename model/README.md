@@ -1,8 +1,3 @@
-### Run the model
-```
-python model.py
-```
-
 # Flask API
 
 ### Create and activate a virtual environment
@@ -21,4 +16,9 @@ pip install -r requirements.txt
 ### Run the api
 ```
 python nlpapi.py
+```
+
+### Run the model
+```
+python model.py
 ```
